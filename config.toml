@@ -1,4 +1,4 @@
-baseURL = "/blog"
+baseURL = "travisamiel.github.io/blog"
 languageCode = "en-us"
 title = "The Travis Amiel Blog"
 theme = "archie"
