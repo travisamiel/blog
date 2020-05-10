@@ -1,15 +1,5 @@
-baseURL = "travisamiel.github.io/blog"
+baseURL = "https://travisamiel.github.io/blog/"
 languageCode = "en-us"
-title = "The Travis Amiel Blog"
+title = "My New Hugo Site"
 theme = "archie"
 publishDir = "docs"
-
-[[menu.main]]
-name = "TravisAmiel.com"
-url = "https://travisamiel.com"
-weight = 1
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 2

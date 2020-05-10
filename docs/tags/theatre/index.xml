@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>theatre on The Travis Amiel Blog</title>
-    <link>travisamiel.github.io/blog/tags/theatre/</link>
-    <description>Recent content in theatre on The Travis Amiel Blog</description>
+    <title>theatre on My New Hugo Site</title>
+    <link>https://travisamiel.github.io/travisblog/tags/theatre/</link>
+    <description>Recent content in theatre on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2020 19:41:38 -0400</lastBuildDate>
     
-	<atom:link href="travisamiel.github.io/blog/tags/theatre/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://travisamiel.github.io/travisblog/tags/theatre/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why this now, why live</title>
-      <link>travisamiel.github.io/blog/posts/09-may-2020/</link>
+      <link>https://travisamiel.github.io/travisblog/posts/my-first-post-yay/</link>
       <pubDate>Sat, 09 May 2020 19:41:38 -0400</pubDate>
       
-      <guid>travisamiel.github.io/blog/posts/09-may-2020/</guid>
-      <description>When putting on a show, often theatremakers ask “why this play, why now”?
-Part of me thinks that the most analogous form of a live performance would be livestreaming. So when producing a livestream I would ask myself “why this live” now.</description>
+      <guid>https://travisamiel.github.io/travisblog/posts/my-first-post-yay/</guid>
+      <description>A thing that theatremakers people who put on plays often ask is &amp;ldquo;why this play, why now&amp;rdquo;.
+Right now, many theatermakers are moving to the most analagous form of live theater, which is livestreaing. So I think we should ask &amp;ldquo;why this live now&amp;rdquo;.</description>
     </item>
     
   </channel>
