@@ -1,0 +1,14 @@
+baseURL = "/blog"
+languageCode = "en-us"
+title = "The Travis Amiel Blog"
+theme = "archie"
+
+[[menu.main]]
+name = "TravisAmiel.com"
+url = "https://travisamiel.com"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 2
