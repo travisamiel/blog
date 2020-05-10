@@ -2,6 +2,7 @@ baseURL = "travisamiel.github.io/blog"
 languageCode = "en-us"
 title = "The Travis Amiel Blog"
 theme = "archie"
+publishDir = "docs"
 
 [[menu.main]]
 name = "TravisAmiel.com"
