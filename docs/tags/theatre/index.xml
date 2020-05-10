@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>theatre on My New Hugo Site</title>
+    <title>theatre on It&#39;s the Travis Amiel Blog</title>
     <link>https://travisamiel.github.io/blog/tags/theatre/</link>
-    <description>Recent content in theatre on My New Hugo Site</description>
+    <description>Recent content in theatre on It&#39;s the Travis Amiel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2020 19:41:38 -0400</lastBuildDate>
@@ -12,13 +12,15 @@
     
     
     <item>
-      <title>Why this now, why live</title>
-      <link>https://travisamiel.github.io/blog/posts/my-first-post-yay/</link>
+      <title>Why this live, why now</title>
+      <link>https://travisamiel.github.io/blog/posts/why-this-live/</link>
       <pubDate>Sat, 09 May 2020 19:41:38 -0400</pubDate>
       
-      <guid>https://travisamiel.github.io/blog/posts/my-first-post-yay/</guid>
+      <guid>https://travisamiel.github.io/blog/posts/why-this-live/</guid>
       <description>A thing that theatremakers people who put on plays often ask is &amp;ldquo;why this play, why now&amp;rdquo;.
-Right now, many theatermakers are moving to the most analagous form of live theater, which is livestreaing. So I think we should ask &amp;ldquo;why this live now&amp;rdquo;.</description>
+Livestreaming (whether via Zoom, Facebook, YouTube) feels like the most analgous option for live performance while this isn&amp;rsquo;t possible. But there&amp;rsquo;s I&amp;rsquo;d like &amp;ldquo;why this live now&amp;rdquo;.
+Will the audience gain something by being there together digitally?
+So much, too much can go wrong when you livestream, and the quality is worse. Please, consider the best medium for what you&amp;rsquo;re making.</description>
     </item>
     
   </channel>
