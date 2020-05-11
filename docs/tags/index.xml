@@ -6,15 +6,33 @@
     <description>Recent content in Tags on It&#39;s the Travis Amiel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 19:41:38 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://travisamiel.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>fermentation</title>
+      <link>https://travisamiel.github.io/blog/tags/fermentation/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://travisamiel.github.io/blog/tags/fermentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livestreaming</title>
+      <link>https://travisamiel.github.io/blog/tags/livestreaming/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://travisamiel.github.io/blog/tags/livestreaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>technology</title>
       <link>https://travisamiel.github.io/blog/tags/technology/</link>
-      <pubDate>Sat, 09 May 2020 19:41:38 -0400</pubDate>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://travisamiel.github.io/blog/tags/technology/</guid>
       <description></description>
@@ -23,7 +41,7 @@
     <item>
       <title>theatre</title>
       <link>https://travisamiel.github.io/blog/tags/theatre/</link>
-      <pubDate>Sat, 09 May 2020 19:41:38 -0400</pubDate>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://travisamiel.github.io/blog/tags/theatre/</guid>
       <description></description>
