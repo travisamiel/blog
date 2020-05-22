@@ -6,10 +6,22 @@
     <description>Recent content in technology on It&#39;s the Travis Amiel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://travisamiel.github.io/blog/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How I Work</title>
+      <link>https://travisamiel.github.io/blog/posts/how-i-work/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://travisamiel.github.io/blog/posts/how-i-work/</guid>
+      <description>I deeply love Lifehacker&amp;rsquo;s &amp;lsquo;How I Work&amp;rsquo; series, and wanted to write my own recap of the software &amp;amp; platforms I love.
+My goal is to use as much open-source software, and after reading this series on Gizmodo, I&amp;rsquo;m wondering how I can utilize platforms that don&amp;rsquo;t have nefarious goals—I&amp;rsquo;m not perfect at all.
+My essentials *Firefox for web browsing, and I search with Duck Duck Go.
+Evernote is my extension of the brain, where everything is stored.</description>
+    </item>
     
     <item>
       <title>Why this live, why now</title>
