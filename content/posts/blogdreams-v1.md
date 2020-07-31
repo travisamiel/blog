@@ -1,5 +1,5 @@
 ---
-title: "What I dream this blog to be"
+title: "What I dream this blog to be, v1"
 date: 2020-05-22
 draft: false
 description: A wishlist.

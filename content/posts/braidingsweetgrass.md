@@ -2,7 +2,7 @@
 title: "Braiding Sweetgrass"
 date: 2020-07-30
 draft: true
-description: 
+description: On reading *Braiding Sweetgrass* and listening to *This Land*.
 tags: [ecology]
 ---
 
@@ -14,4 +14,10 @@ This book I'm reading right now,
 
 ### Bioregionalism
 
+### Yale Union, dissolving, deacession
+https://hyperallergic.com/577884/yale-union-native-arts-and-cultures-foundation/
+
 ## Jewishness
+
+## Open Collective
+https://opencollective.com/
