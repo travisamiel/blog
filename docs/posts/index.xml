@@ -6,10 +6,20 @@
     <description>Recent content in Posts on It&#39;s the Travis Amiel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://travisamiel.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Abundant archives of amazing performance</title>
+      <link>https://travisamiel.github.io/blog/posts/abundantarchives/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://travisamiel.github.io/blog/posts/abundantarchives/</guid>
+      <description>Missing You As I so deeply miss the uncomfortable, subversive, movement-driven, messy performances I came to NYC for, I have felt eccestatic by recordings which have popped up that I didn&amp;rsquo;t know existed. But the urgency to watch in a specific window, a limitation for the number of viewers, or cost have all felt like undue artificial restrictions.
+Many have long offered robust, deep archives of their work—which I&amp;rsquo;d like to celebrate.</description>
+    </item>
     
     <item>
       <title>Social Media Fasting</title>
@@ -43,7 +53,7 @@ While I&amp;rsquo;m reminding myself not to put any pressure of productivity on 
     </item>
     
     <item>
-      <title>What I dream this blog to be</title>
+      <title>What I dream this blog to be, v1</title>
       <link>https://travisamiel.github.io/blog/posts/blogdreams-v1/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       

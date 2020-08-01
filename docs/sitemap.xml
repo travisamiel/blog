@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://travisamiel.github.io/blog/tags/fermentation/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+    <loc>https://travisamiel.github.io/blog/posts/abundantarchives/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://travisamiel.github.io/blog/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://travisamiel.github.io/blog/posts/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://travisamiel.github.io/blog/tags/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://travisamiel.github.io/blog/tags/theatre/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://travisamiel.github.io/blog/tags/fermentation/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,17 +38,7 @@
   </url>
   
   <url>
-    <loc>https://travisamiel.github.io/blog/posts/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://travisamiel.github.io/blog/posts/22july2020/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://travisamiel.github.io/blog/tags/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,11 +94,6 @@
   
   <url>
     <loc>https://travisamiel.github.io/blog/tags/livestreaming/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://travisamiel.github.io/blog/tags/theatre/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
