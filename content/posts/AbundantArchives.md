@@ -19,7 +19,7 @@ Many have long offered robust, deep archives of their work—which I'd like to c
 ## Individuals
 Praise be to [Reza Abdoh's archivist Adam Soch](https://vimeopro.com/adamsoch/reza-abdoh), for capturing these problematic performance collages.
 
-[Miguel Guitierez](https://vimeo.com/miguelgutierrez71) has his disography of queer choreographies online in a way that demonstrates his ourve so beautifully.
+[Miguel Gutierrez](https://vimeo.com/miguelgutierrez71) has his disography of queer choreographies online in a way that demonstrates his ourve so beautifully.
 
 ## MY convinction
 Recordings should remain free to watch. It should be the goal of arts institutions that have a 501 (c)(3) status to remove as many barriers to access to what they produce so that it may reach the largest possible [target] audience. What are the barriers and who is the audience? Great questions to ask always!
