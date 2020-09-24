@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://travisamiel.github.io/blog/posts/abundantarchives/</loc>
-    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+    <loc>https://travisamiel.github.io/blog/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://travisamiel.github.io/blog/</loc>
-    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+    <loc>https://travisamiel.github.io/blog/posts/podcastrecommendations-v1/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://travisamiel.github.io/blog/posts/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://travisamiel.github.io/blog/posts/abundantarchives/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
   </url>
   

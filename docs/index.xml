@@ -6,10 +6,19 @@
     <description>Recent content on It&#39;s the Travis Amiel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://travisamiel.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Podcast Recommendations</title>
+      <link>https://travisamiel.github.io/blog/posts/podcastrecommendations-v1/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://travisamiel.github.io/blog/posts/podcastrecommendations-v1/</guid>
+      <description>Preface I am of the conviction that podcasts are not in any way a new thing. I think of podcasts as a genre of distribution whereby an RSS feed serves up (usually) audio files. i.e. the producer offers a list/menu of files, along with information, and you are able to download the actual file—and the menu is in a standardized, agreed-upon format so reading the menu is clear to developers. This is mode of distribution is different than streaming video/audio online or tuning into a broadcast on radio/TV.</description>
+    </item>
     
     <item>
       <title>Abundant archives of amazing performance</title>

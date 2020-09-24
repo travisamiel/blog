@@ -2,7 +2,7 @@
 title: "Abundant archives of amazing performance"
 date: 2020-07-31
 draft: false
-description: Where to for delectable experimental performance, that isn't available for a limited time!
+description: Where to go for delectable experimental performance, that isn't available for a limited time!
 tags: ["theatre"]
 ---
 
